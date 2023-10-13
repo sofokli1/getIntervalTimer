@@ -9,6 +9,6 @@ include_in_header: true
 <br>
 
 ### `Initial Release`
-# **Version 1.0**
+# **Version 1.0.0**
 
 <br>
