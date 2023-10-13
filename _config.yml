@@ -42,7 +42,7 @@ features                                  :
 
   - title                                 : Apple Watch Support
     description                           : Take your workouts to the next level with seamless integration for Apple Watch. Keep track of your intervals and stay motivated right from your wrist.
-    fontawesome_icon_name                 : watch-apple
+    fontawesome_icon_name                 : apple
     
   - title                                 : Customizable Alerts
     description                           : Choose from a variety of sounds and visual cues to keep you motivated and on track during your workout sessions.
