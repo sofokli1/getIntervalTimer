@@ -38,27 +38,27 @@ features                                  :
 
   - title                                 : Customizable Intervals
     description                           : Tailor your workouts with precision. Set the duration for work, rest and recovery intervals to match your training goals.
-    fontawesome_icon_name                 : "fa-solid fa-pen-to-square"
+    fontawesome_icon_name                 : pen-to-square
 
   - title                                 : Apple Watch Support
     description                           : Take your workouts to the next level with seamless integration for Apple Watch. Keep track of your intervals and stay motivated right from your wrist.
-    fontawesome_icon_name                 : fa-solid fa-watch-smart
+    fontawesome_icon_name                 : watch-smart
     
   - title                                 : Customizable Alerts
     description                           : Choose from a variety of sounds and visual cues to keep you motivated and on track during your workout sessions.
-    fontawesome_icon_name                 : fa-solid fa-volume-high
+    fontawesome_icon_name                 : volume-high
 
   - title                                 : Repeating Sets
     description                           : Easily program multiple sets with the option to repeat for a comprehensive training experience.
-    fontawesome_icon_name                 : fa-solid fa-repeat
+    fontawesome_icon_name                 : repeat
 
   - title                                 : Countdown Timer
     description                           : Get a visual cue of the time remaining in your intervals, ensuring you stay focused and energized.
-    fontawesome_icon_name                 : "fa-solid fa-stopwatch-20"
+    fontawesome_icon_name                 : stopwatch-20
 
   - title                                 : Ideal for Various Sports
     description                           : Interval Timer is perfect for a wide range of sports including HIIT, Tabata, Boxing, MMA, Running, Circuit and Yoga.
-    fontawesome_icon_name                 : "fa-solid fa-person-running"
+    fontawesome_icon_name                 : person-running
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
