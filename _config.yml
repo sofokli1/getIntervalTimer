@@ -38,11 +38,11 @@ features                                  :
 
   - title                                 : Customizable Intervals
     description                           : Tailor your workouts with precision. Set the duration for work, rest and recovery intervals to match your training goals.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : pen-to-square
 
   - title                                 : Apple Watch Support
     description                           : Take your workouts to the next level with seamless integration for Apple Watch. Keep track of your intervals and stay motivated right from your wrist.
-    fontawesome_icon_name                 : watch-smart
+    fontawesome_icon_name                 : clock
     
   - title                                 : Customizable Alerts
     description                           : Choose from a variety of sounds and visual cues to keep you motivated and on track during your workout sessions.
