@@ -5,6 +5,12 @@ include_in_header: true
 ---
 
 # Changelog
+<br>
+# **Version 1.0.2**
+
+August 04, 2025
+### `Updated GDPR consent screen`
+<br>
 
 <br>
 # **Version 1.0.1**
